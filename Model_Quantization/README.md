@@ -55,8 +55,8 @@ This project demonstrates how to **compress** and **quantize** a Keras model to 
 Each script can be executed using command-line parser arguments:
 
 ```bash
-python compress_model.py --weights_path 'normal.h5' --compressed_model_path 'C:\Users\DELL\OneDrive\Desktop\Model Optimization\Model-Optimization'
-python quantize_model.py --weights_path 'normal.h5' --quantized_model_path 'C:\Users\DELL\OneDrive\Desktop\Model Optimization\Model-Optimization'
+python compress_model.py --weights_path 'normal.h5' --compressed_model_path 'C:\Users\Venu\OneDrive\Desktop\Model Optimization\Model-Optimization'
+python quantize_model.py --weights_path 'normal.h5' --quantized_model_path 'C:\Users\Venu\OneDrive\Desktop\Model Optimization\Model-Optimization'
 ```
 Evaluate performance of all three model
 
